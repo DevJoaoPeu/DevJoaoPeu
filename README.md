@@ -27,7 +27,7 @@
    <img alt="Express" align="center" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
 </div>  <br/>
 
-Engenheiro de software, especializado no desenvolvimento de soluções web/mobile. Com habilidades sólidas em resolver problemas, estou sempre em busca de novos desafios para aplicar meu conhecimento e criar soluções inovadoras. 
+Desenvolvedor de software, especializado no desenvolvimento de soluções web/mobile. Com habilidades sólidas em resolver problemas, estou sempre em busca de novos desafios para aplicar meu conhecimento e criar soluções inovadoras. 
 <br/>
 
 Email para contato: joaopedroprog.contato@gmail.com
