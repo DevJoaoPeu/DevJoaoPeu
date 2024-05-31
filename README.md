@@ -7,9 +7,7 @@
 
 ![Dev João GitHub stats](https://github-readme-stats.vercel.app/api?username=DevJoaoPeu&show_icons=true&theme=dracula)
 
-
 ## Tecnologias que uso no meu dia a dia.
-
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -17,7 +15,11 @@
   </a>
 </p> <br/>
 
-Desenvolvedor de software, especializado no desenvolvimento de soluções backend. Com as hábilidades acima venho em busca de me tornar um melhor dev
+Profissional com perfil multidisciplinar orientado a resultados e desafios, com trajetória desenvolvida em início de carreia no desenvolvimento de software.
+
+Ao longo da minha carreira acadêmica/profissional, adquiri expertise no desenvolvimento e implementação de aplicações web utilizando tecnologias como TypeScript, NodeJs, NestJs Além disso tenho conhecimento em algumas praticas de desenvolvimento como: Clean Code e Solid. Meu diferencial é que ao logo das minhas experiências, também desenvolvi habilidades no Frontend com React e NextJs. Também já desenvolvi aplicações mobile com React Native.
+
+Perfil com facilidade em adaptar-se a diversos tipos de ambientes, análise crítica, senso de urgência, senso de dono, hands-on, visão holística e de fácil convivência no trabalho em equipe.
 <br/>
 
 Email para contato: joaopedroprog.contato@gmail.com
